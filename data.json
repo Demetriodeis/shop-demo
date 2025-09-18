@@ -1,0 +1,149 @@
+ [
+		{
+			"titulo": "CAMISETA COM ESTRUTURA E DECOTE COMBINADO",
+			"valor": "R$ 279,00",
+			"imagem": "https://static.zara.net/assets/public/8f6e/582f/c4d847088cd7/6e86c2b447c5/05584342250-000-a5/05584342250-000-a5.jpg?ts=1756741126036&w=375",
+			"categoria": "T-Shirt",
+			"variacao": "Tamanhos P, M, G | Cor: Preto"
+		},
+		{
+			"titulo": "CAMISETA COM PATCH BORDADO",
+			"valor": "R$ 249,00",
+			"imagem": "https://static.zara.net/assets/public/399a/b2d4/176340a6b4f5/87a0b625cd25/05584353250-000-a1/05584353250-000-a1.jpg?ts=1756741126627&w=375",
+			"categoria": "Camiseta Estampada",
+			"variacao": "Tamanhos P, M, G | Cores: Estampada"
+		},
+		{
+			"titulo": "CAMISETA CANELADA LAVADA COM BORDADO",
+			"valor": "R$ 209,00",
+			"imagem": "https://static.zara.net/assets/public/387b/ad28/2d9a4539b4ab/5dac1efe382e/06224300300-a1/06224300300-a1.jpg?ts=1753360974579&w=375",
+			"categoria": "Camiseta Estampada",
+			"variacao": "Tamanhos P, M, G | Cores: Branco, Preto, Azul"
+		},
+		{
+			"titulo": "CAMISETA JACQUARD LISTRAS",
+			"valor": "R$ 249,00",
+			"imagem": "https://static.zara.net/assets/public/57e0/0437/b3434daabf37/fc8d6e671409/05372313401-000-a1/05372313401-000-a1.jpg?ts=1756292876302&w=375",
+			"categoria": "T-Shirt",
+			"variacao": "Tamanhos P, M, G | Cores: Estampada"
+		},
+		{
+			"titulo": "CAMISETA COM TEXTO BORDADO",
+			"valor": "R$ 209,00",
+			"imagem": "https://static.zara.net/assets/public/07df/a582/99dd4b7b9a8b/d4236bd42f84/00962445251-a1/00962445251-a1.jpg?ts=1743151703611&w=375",
+			"categoria": "Camiseta Estampada",
+			"variacao": "Tamanhos P, M, G | Cor: Marrom"
+		},
+		{
+			"titulo": "CAMISETA COM JACQUARD LISTRADA",
+			"valor": "R$ 209,00",
+			"imagem": "https://static.zara.net/assets/public/d4c0/74ef/f9e44507918a/a05ac1ee2a6a/04442426529-a1/04442426529-a1.jpg?ts=1743153631115&w=375",
+			"categoria": "T-Shirt",
+			"variacao": "Tamanhos P, M, G | Cores: Branco, Preto, Azul"
+		},
+		{
+			"titulo": "CAMISETA LAVADA COM CORTE RELAXADO",
+			"valor": "R$ 209,00",
+			"imagem": "https://static.zara.net/assets/public/aaec/7da0/642c40b4af37/9a1d84d8d6cf/04087459519-a1/04087459519-a1.jpg?ts=1743151715029&w=375",
+			"categoria": "T-Shirt",
+			"variacao": "Tamanhos P, M, G | Cores: Estampada"
+		},
+		{
+			"titulo": "CAMISETA ESTRUTURA QUADRICULADA",
+			"valor": "R$ 209,00",
+			"imagem": "https://static.zara.net/assets/public/4150/4e4d/e0ff4a8c9a3e/32a452d3c47a/00761367066-000-a1/00761367066-000-a1.jpg?ts=1756906891377&w=375",
+			"categoria": "T-Shirt",
+			"variacao": "Tamanhos P, M, G | Cores: Estampada"
+		},
+		{
+			"titulo": "CAMISETA COM REMENDOS COMBINADOS",
+			"valor": "R$ 249,00",
+			"imagem": "https://static.zara.net/assets/public/79ce/325a/9cfc4c079a79/884a663ea2bc/05584470800-a5/05584470800-a5.jpg?ts=1741691037278&w=375",
+			"categoria": "Camiseta Estampada",
+			"variacao": "Tamanhos P, M, G | Cor: Marrom"
+		},
+		{
+			"titulo": "CAMISETA COM REMENDO ESTAMPADO",
+			"valor": "R$ 249,00",
+			"imagem": "https://static.zara.net/assets/public/4619/e8c4/872a435c92dc/0e88baab70e4/01930404251-a1/01930404251-a1.jpg?ts=1741691026274&w=375",
+			"categoria": "Camiseta Estampada",
+			"variacao": "Tamanhos P, M, G | Cores: Branco, Preto, Azul"
+		},
+		{
+			"titulo": "CAMISETA CROPPED FIT COM TEXTURA QUADRICULADA",
+			"valor": "R$ 209,00",
+			"imagem": "https://static.zara.net/assets/public/0b09/f665/f0434bfe9c9b/bfad32a914c9/00761423809-000-a1/00761423809-000-a1.jpg?ts=1757327787741&w=375",
+			"categoria": "T-Shirt",
+			"variacao": "Tamanhos P, M, G | Cores: Estampada"
+		},
+		{
+			"titulo": "CAMISETA COMBINADA COM MESH",
+			"valor": "R$ 309,00",
+			"imagem": "https://static.zara.net/assets/public/4f4e/6195/542846f3a66c/d2f12a01b6f2/03665416712-000-a5/03665416712-000-a5.jpg?ts=1757327819552&w=375",
+			"categoria": "T-Shirt",
+			"variacao": "Tamanhos P, M, G | Cores: Branco, Preto, Azul"
+		},
+		 {
+			"titulo": "CALÇA LAVADA CARGO",
+			"valor": "R$ 749,00",
+			"imagem": "https://static.zara.net/assets/public/99f6/94cc/0d524ef9aa20/b0df673b6be0/05862407533-a4/05862407533-a4.jpg?ts=1742807136328&w=375",
+			"categoria": "Calça",
+			"variacao": "Tamanhos 34 ao 44 | Cor: Azul Médio"
+		},
+		{
+			"titulo": "CALÇA WIDE FIT EM ALGODÃO",
+			"valor": "R$ 649,00",
+			"imagem": "https://static.zara.net/assets/public/4449/a87b/7f3647898a74/465f5b012f46/05862411092-p/05862411092-p.jpg?ts=1742551946969&w=375",
+			"categoria": "Calça",
+			"variacao": "Tamanhos P, M, G | Cores: Branco, Preto, Azul"
+		},
+		{
+			"titulo": "CALÇA RELAXED FIT TERNO",
+			"valor": "R$ 519,00",
+			"imagem": "https://static.zara.net/assets/public/c333/152a/f5b74875abef/0590219d95e9/04594746807-p/04594746807-p.jpg?ts=1742551945820&w=375",
+			"categoria": "Calça",
+			"variacao": "Tamanhos P, M, G | Cor: Preto"
+		},
+		{
+			"titulo": "CALÇA WIDE FIT EM ALGODÃO - VISCOSE",
+			"valor": "R$ 749,00",
+			"imagem": "https://static.zara.net/assets/public/ee6b/62fc/8c0145a7a156/73ef25b64399/04452521798-p/04452521798-p.jpg?ts=1742485788186&w=375",
+			"categoria": "Calça",
+			"variacao": "Tamanhos P, M, G | Cor: Marrom"
+		},
+		{
+			"titulo": "CALÇA WIDE FIT EM ALGODÃO - VISCOSE (preto)",
+			"valor": "R$ 749,00",
+			"imagem": "https://static.zara.net/assets/public/8475/63ad/c8704ce6b6d5/8723929fb8d6/04452521800-p/04452521800-p.jpg?ts=1742214022815&w=375",
+			"categoria": "Calça",
+			"variacao": "Tamanhos P, M, G | Cores: Branco, Preto, Azul"
+		},
+		{
+			"titulo": "CALÇA DE TERNO 100% LINHO",
+			"valor": "R$ 649,00",
+			"imagem": "https://static.zara.net/assets/public/f660/f595/a11548d5839c/d3428c482f97/04447522700-p/04447522700-p.jpg?ts=1742815915338&w=375",
+			"categoria": "Calça",
+			"variacao": "Tamanhos P, M, G | Cor: Preto"
+		},
+		{
+			"titulo": "CALÇA 100% LINHO (bege-claro)",
+			"valor": "R$ 519,00",
+			"imagem": "https://static.zara.net/assets/public/4ff1/9e39/96bf4b5992d0/67b414deca95/04331181092-p/04331181092-p.jpg?ts=1751537021397&w=375",
+			"categoria": "Calça",
+			"variacao": "Tamanhos P, M, G | Cores: Estampada"
+		},
+		{
+			"titulo": "CALÇA JOGGER REGULAR FIT (branco-marfim)",
+			"valor": "R$ 409,00",
+			"imagem": "https://static.zara.net/assets/public/0576/3a19/2c964058b95e/e7a05cf809f0/04087481251-p/04087481251-p.jpg?ts=1742485621575&w=375",
+			"categoria": "Calça",
+			"variacao": "Tamanhos P, M, G | Cor: Marrom"
+		},
+		{
+			"titulo": "CALÇA JOGGER REGULAR FIT (terra)",
+			"valor": "R$ 409,00",
+			"imagem": "https://static.zara.net/assets/public/fa64/ec10/e25e47638ef8/adf11e8b80b1/04087481798-p/04087481798-p.jpg?ts=1742485647560&w=375",
+			"categoria": "Calça",
+			"variacao": "Tamanhos 34 ao 44 | Cor: Azul Médio"
+		}
+	]
